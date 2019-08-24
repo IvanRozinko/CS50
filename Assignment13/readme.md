@@ -1,0 +1,1 @@
+Silhouettes counter. Counting silhouettes on picture using wide search

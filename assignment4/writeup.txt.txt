@@ -1,0 +1,9 @@
+1.  I decided that "vx" and "vy" should be variable of class, because a lot of methods
+    at different levcel need to access it and  to change it. Same to variable "paddle".
+2.  Game ends after there are no bricks on the stage left. To check it I add variable, which
+    counting increasing value of variable each time after ball collides a brick. I had to change 
+    code a bit, to make it works.
+3. Yes a change code a lot after testing, and almost on every step of writing a program.
+
+    
+	 

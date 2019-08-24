@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26789074-233d-4465-8116-c71a8831d96d" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/irozinko/assignment17/MyHashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="30" />
+              <folding>
+                <element signature="e#303#333#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dgrymach/Assignment17/PriorityQueue/TestPriorityQueue.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/irozinko/assignment17/assignment13/Assignment13.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/irozinko/assignment17/MyArrayList.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/irozinko/assignment17/IMyHashMap.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/irozinko/assignment17/assignment11/irozinko/Assignment10Part2.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/irozinko/assignment17/MyHashMapTest.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/irozinko/assignment17/IMyPriorityQueue.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/irozinko/assignment17/test.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/ssidorenko/assignment15/Assignment15.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/ssidorenko/assignment15/Decompressor.java" />
+        <option value="$PROJECT_DIR$/test.txt" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/dgrymach/Assignment15/CheckCMD.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/dgrymach/Assignment15/Assignment15.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/vteslenko/assignment17/HashMap.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/vteslenko/assignment11/Parser.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/vteslenko/assignment17/test.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/dgrymach/Assignment15/ProcessedFile.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/ssidorenko/assignment15/Compressor.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/vteslenko/assignment17/PriorityQueueTest.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/vteslenko/assignment17/PriorityQueue.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/irozinko/assignment17/MyHashMap.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/irozinko/assignment17/MyPriorityQueue.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/irozinko/assignment17/MyStack.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/irozinko/assignment17/huffman/Archive.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/irozinko/assignment17/MyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/dgrymach/Assignment17/HashMap/MyHashMap.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/dgrymach/Assignment17/Assignment13/FindShadows.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/dgrymach/Assignment17/HashMap/TestHashMap.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/dgrymach/Assignment17/PriorityQueue/TestPriorityQueue.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/dgrymach/Assignment17/HashMap/test.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/dgrymach/Assignment17/PriorityQueue/MyPriorityQueue.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/dgrymach/Assignment16/LinkedList/MyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/dgrymach/Assignment16/ArrayList/MyArrayList.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment15/Object.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment15/Unarchive.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment15/DataCompression.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment15/Archive.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment15/Node.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment16/MyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment16/MyQueue.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment16/test.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment16/MyArrayList.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment16/MyStack.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment16/Node.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment16/TestCode.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/oromanenko/assignment17/mJUnitTest/MQueueTest.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/oromanenko/assignment17/MHashMap.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/oromanenko/assignment17/testnew.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/oromanenko/assignment17/MPriorityQueue.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment17/MyHashMap.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment17/MyQueu.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment17/MyPriorityQueue.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="608" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Assignment17" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment17" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment17" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment17" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment17" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment17" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment17" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment17" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cs" type="462c0819:PsiDirectoryNode" />
+              <item name="dzubak" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment17" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment17" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cs" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment17" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment17" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557056692912" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Assignment16" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.shpp.p2p.cs.irozinko.assignment17" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.testnew">
+    <configuration name="Assignment15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shpp.p2p.cs.dgrymach.Assignment15.Assignment15" />
+      <module name="Assignment17" />
+      <option name="PROGRAM_PARAMETERS" value="dic.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shpp.p2p.cs.dgrymach.Assignment15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shpp.p2p.cs.dzubak.assignment16.TestCode" />
+      <module name="Assignment17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shpp.p2p.cs.dzubak.assignment16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shpp.p2p.cs.dzubak.assignment16.test" />
+      <module name="Assignment17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shpp.p2p.cs.dzubak.assignment16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testnew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shpp.p2p.cs.oromanenko.assignment17.testnew" />
+      <module name="Assignment17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shpp.p2p.cs.oromanenko.assignment17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MHashMapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shpp.p2p.cs.oromanenko.assignment17.mJUnitTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shpp.p2p.cs.oromanenko.assignment17.mJUnitTest" />
+      <option name="MAIN_CLASS_NAME" value="com.shpp.p2p.cs.oromanenko.assignment17.mJUnitTest.MHashMapTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MQueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shpp.p2p.cs.oromanenko.assignment17.mJUnitTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shpp.p2p.cs.oromanenko.assignment17.mJUnitTest" />
+      <option name="MAIN_CLASS_NAME" value="com.shpp.p2p.cs.oromanenko.assignment17.mJUnitTest.MQueueTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Assignment15" />
+      <item itemvalue="Application.test (1)" />
+      <item itemvalue="Application.TestCode" />
+      <item itemvalue="Application.testnew" />
+      <item itemvalue="JUnit.MQueueTest" />
+      <item itemvalue="JUnit.MHashMapTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.testnew" />
+        <item itemvalue="JUnit.MHashMapTest" />
+        <item itemvalue="JUnit.MQueueTest" />
+        <item itemvalue="Application.test (1)" />
+        <item itemvalue="Application.TestCode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26789074-233d-4465-8116-c71a8831d96d" name="Default Changelist" comment="" />
+      <created>1548751165289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548751165289</updated>
+      <workItem from="1554278060585" duration="10697000" />
+      <workItem from="1554737637149" duration="396000" />
+      <workItem from="1554738783164" duration="101000" />
+      <workItem from="1554883217423" duration="5886000" />
+      <workItem from="1554908583467" duration="1933000" />
+      <workItem from="1554967888340" duration="551000" />
+      <workItem from="1555488808135" duration="5653000" />
+      <workItem from="1555523618471" duration="2653000" />
+      <workItem from="1556099579451" duration="9087000" />
+      <workItem from="1556167371091" duration="7000" />
+      <workItem from="1556528479516" duration="6242000" />
+      <workItem from="1556710989449" duration="9976000" />
+      <workItem from="1557055103703" duration="1716000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="HashMapTest - 2019.02.06 at 15h 56m 03s.xml">
+      <configuration name="HashMapTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PriorityQueueTest - 2019.02.06 at 20h 41m 27s.xml">
+      <configuration name="PriorityQueueTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PriorityQueueTest - 2019.02.06 at 20h 51m 43s.xml">
+      <configuration name="PriorityQueueTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PriorityQueueTest - 2019.02.06 at 20h 52m 45s.xml">
+      <configuration name="PriorityQueueTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PriorityQueueTest_pollDouble - 2019.02.06 at 20h 53m 14s.xml">
+      <configuration name="PriorityQueueTest.pollDouble" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PriorityQueueTest_pollDouble - 2019.02.06 at 20h 54m 44s.xml">
+      <configuration name="PriorityQueueTest.pollDouble" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyHashMapTest - 2019.04.03 at 11h 55m 24s.xml">
+      <configuration name="MyHashMapTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyPriorityQueueTest - 2019.04.03 at 12h 23m 25s.xml">
+      <configuration name="MyPriorityQueueTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyPriorityQueueTest - 2019.04.08 at 11h 40m 29s.xml">
+      <configuration name="MyPriorityQueueTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MHashMapTest - 2019.04.24 at 21h 13m 12s.xml">
+      <configuration name="MHashMapTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="54898000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18120806" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29745042" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32719547" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35783634" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29799426" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32765958" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dgrymach/Assignment17/Assignment13/FindShadows.java</url>
+          <line>225</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dgrymach/Assignment17/HashMap/test.java</url>
+          <line>3</line>
+          <properties class="com.shpp.p2p.cs.dgrymach.Assignment17.HashMap.test" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dgrymach/Assignment16/ArrayList/MyArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3128">
+          <caret line="186" column="27" selection-start-line="186" selection-start-column="27" selection-end-line="186" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dgrymach/Assignment16/LinkedList/MyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2104">
+          <caret line="238" column="27" selection-start-line="238" selection-start-column="27" selection-end-line="238" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dgrymach/Assignment17/PriorityQueue/MyPriorityQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="36" column="55" lean-forward="true" selection-start-line="36" selection-start-column="55" selection-end-line="36" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dgrymach/Assignment17/Assignment15/IConst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dgrymach/Assignment17/Assignment15/ProcessedFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dgrymach/Assignment17/Assignment15/CheckCMD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dgrymach/Assignment17/Assignment15/Assignment15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dgrymach/Assignment15/Assignment15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="72" column="18" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/out.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2161026" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/dic.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2161026" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/out.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="91" column="68" selection-start-line="91" selection-start-column="47" selection-end-line="91" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment15/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment15/Unarchive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="105" column="23" selection-start-line="105" selection-start-column="23" selection-end-line="105" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment15/DataCompression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="103" column="17" selection-start-line="103" selection-start-column="17" selection-end-line="103" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment15/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="69" column="6" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="159" column="13" selection-start-line="159" selection-start-column="13" selection-end-line="159" selection-end-column="13" />
+          <folding>
+            <element signature="e#5343#5344#0" expanded="true" />
+            <element signature="e#5400#5401#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="310" column="12" selection-start-line="310" selection-start-column="12" selection-end-line="310" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="460" column="19" selection-start-line="460" selection-start-column="19" selection-end-line="460" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/irozinko/assignment17/MyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="694">
+          <caret line="79" column="20" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/irozinko/assignment17/MyArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="e#203#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment16/MyArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment16/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment16/MyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3179">
+          <caret line="202" column="25" selection-start-line="202" selection-start-column="25" selection-end-line="202" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment16/MyQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="15" selection-start-line="53" selection-start-column="15" selection-end-line="53" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment16/MyStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="82" column="23" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment16/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment16/TestCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shpp-scs-homework-1847-oromanenko-assignment17-v1-1556051661/src/com/shpp/p2p/cs/oromanenko/assignment17/MHashMap.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/oromanenko/assignment17/mJUnitTest/MHashMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/oromanenko/assignment17/mJUnitTest/MQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-336">
+          <caret line="105" column="37" lean-forward="true" selection-start-line="105" selection-start-column="37" selection-end-line="105" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/vteslenko/assignment17/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="53" column="11" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
+          <folding>
+            <element signature="e#2084#2085#0" expanded="true" />
+            <element signature="e#2136#2137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/oromanenko/assignment17/testnew.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/vteslenko/assignment17/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="140" column="17" selection-start-line="140" selection-start-column="17" selection-end-line="140" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/oromanenko/assignment17/MPriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="787">
+          <caret line="119" column="31" selection-start-line="119" selection-start-column="31" selection-end-line="119" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/oromanenko/assignment17/MHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment17/MyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment17/MyQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment17/MyStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment17/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment17/MyArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment15/Archive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3740">
+          <caret line="224" column="7" selection-start-line="224" selection-start-column="7" selection-end-line="224" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment17/MyHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="82" column="57" selection-start-line="82" selection-start-column="28" selection-end-line="82" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment17/HashNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="913">
+          <caret line="113" column="20" selection-start-line="113" selection-start-column="20" selection-end-line="113" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment17/MyQueu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="80" column="26" selection-start-line="80" selection-start-column="26" selection-end-line="80" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment17/MyPriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" column="35" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/dzubak/assignment17/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/irozinko/assignment17/MyHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <element signature="e#303#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Assignment17</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

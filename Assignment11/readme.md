@@ -1,0 +1,1 @@
+Silhouettes counter based on depth search

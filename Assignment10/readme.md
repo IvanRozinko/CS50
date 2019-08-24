@@ -1,0 +1,1 @@
+Simple console calculator, can count with braces, trigonometry etc
